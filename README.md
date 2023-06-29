@@ -1,43 +1,16 @@
-<p align="center">
-  <a href="https://www.chromatic.com/">
-    <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
-  </a>
-</p>
-
 <h1 align="center">
-  Chromatic's Design Systems for Developers tutorial template
+  Chromatic's Design Systems for Developers template
 </h1>
-
-This template ships with the main React configuration files you'll need to get up and running fast.
 
 ## 🚅 Quick start
 
-1.  **Create the application.**
-
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
+1.  **Install the package.**
 
     ```shell
-    # Clone the template
-    npx degit chromaui/learnstorybook-design-system-template learnstorybook-design-system
+    yarn add jldrmdev-design-system-seed
     ```
 
-1.  **Install the dependencies.**
-
-    Navigate into your new site’s directory and install the necessary dependencies.
-
-    ```shell
-    # Navigate to the directory
-    cd learnstorybook-design-system/
-
-    # Install the dependencies
-    yarn
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Open the `learnstorybook-design-system` directory in your code editor of choice and building your first component!
-
-## 🔎 What's inside?
+## 🔎 What's inside? How to contribute
 
 A quick look at the top-level files and directories included with this template.
 
