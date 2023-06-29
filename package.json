@@ -3,7 +3,7 @@
   "description": "Design system test using typescript + storybook + rollup",
   "repository": "git@github.com:JLDRM/design-system-seed.git",
   "author": "Josepeliao <jldr244@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
