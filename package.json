@@ -1,5 +1,5 @@
 {
-  "name": "@jlrmdev/design-system-seed",
+  "name": "jldrmdev-design-system-seed",
   "description": "Design system test using typescript + storybook + rollup",
   "repository": "git@github.com:JLDRM/design-system-seed.git",
   "author": "Josepeliao <jldr244@gmail.com>",
